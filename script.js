@@ -11,7 +11,7 @@ if(nama == 'farhan' && password == 'Farhan@4123'){
 }
 
 // operator OR ||
-if(nama == 'farha' || password == 'Farhan@412'){
+if(nama == 'farhan' || password == 'Farhan@412'){
     console.log("Login berhasil");
 }else{
     console.log("login gagal");
